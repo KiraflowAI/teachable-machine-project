@@ -3,6 +3,13 @@
 ## 🎯 Project Name
 **Thumbs Detector** – Recognition of hand gestures (“Thumbs up” 👍 / “Thumbs down” 👎)
 
+## 🚀 Live Demo
+
+👉 [**Click here to launch the app**](https://kiraflowai.github.io/teachable-machine-project/frontend/static/)
+
+Or open directly:  
+🔗 https://kiraflowai.github.io/teachable-machine-project/frontend/static/
+
 ---
 
 ## 📝 Project Goal
@@ -90,6 +97,16 @@ With more data and better variation, the model could become more robust and accu
 
 ## 🎯 Projektname
 **Thumbs Detector** – Erkennung von Handgesten („Daumen hoch“ 👍 / „Daumen runter“ 👎)
+
+
+
+## 🚀 Live Demo
+
+👉 [**Hier klicken, um die App zu starten**](https://kiraflowai.github.io/teachable-machine-project/frontend/static/)
+
+Oder direkt öffnen:  
+🔗 https://kiraflowai.github.io/teachable-machine-project/frontend/static/
+
 
 ---
 
